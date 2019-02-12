@@ -7,11 +7,11 @@ Práctica 2: Estructuras de control y listas
 ### Fecha de entrega: martes 26 de febrero, 2019
 
 Deben implementar los métodos faltantes de la clase 
-[ListaEstudiante](https://aztlan.fciencias.unam.mx/gitlab/2019-2-icc/practica1/blob/master/src/mx/unam/ciencias/icc/Estudiante.java).
+[ListaEstudiante](https://aztlan.fciencias.unam.mx/gitlab/2019-2-icc/practica2/blob/master/src/main/java/mx/unam/ciencias/icc/Estudiante.java).
 
 Una vez que hayan terminado su clase, además de que debe de pasar todas sus
 pruebas unitarias, debe ejecutar correctamente el programa escrito en la clase
-[Practica2](https://aztlan.fciencias.unam.mx/gitlab/2019-2-icc/practica1/blob/master/src/mx/unam/ciencias/icc/Practica2.java).
+[Practica2](https://aztlan.fciencias.unam.mx/gitlab/2019-2-icc/practica2/blob/master/src/main/java/mx/unam/ciencias/icc/Practica2.java).
 
 Los únicos archivos que deben modificar son
 
